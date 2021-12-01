@@ -29,4 +29,5 @@ Algoritmo ejercicio_20
 	sino 
 		Escribir "Su DNI con parte númerica " ,partenum, " y letra " ,letra, " no es válido, queda usted detenido";
 	FinSi
+	Escribir "hermano thats a change";
 FinAlgoritmo
